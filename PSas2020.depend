@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637161020 source:c:\users\yc\desktop\porejetsas2020\psas2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
